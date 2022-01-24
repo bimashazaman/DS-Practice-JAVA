@@ -13,6 +13,11 @@ public class Main
     stack.push("bimasha4");
     stack.push("bimasha46");
     stack.push("bimasha468");
+    stack.push("bimasha468");
+    stack.push("bimasha468");
+    stack.push("bimasha468");
+    stack.push("bimasha468");
+    
 
     System.out.println("Stack is empty: " + stack.isEmpty());
     System.out.println("Stack size: " + stack.size());
