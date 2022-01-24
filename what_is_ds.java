@@ -213,6 +213,12 @@
                 // how to do heap sort?
                 // heapSort(int[] array)
 
+                //how to interpolation search?
+                // interpolationSearch(int[] array, int key)
+
+                //how to do binary search tree?
+                // binarySearchTree(int[] array)
+
                 
 
 
