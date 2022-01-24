@@ -130,7 +130,96 @@
 
                 //how to get sublist of a linked list?
                 //subList(fromIndex, toIndex)
+
+
+                // what is dynamic array? dynamic array is a collection of elements stored at the contiguous memory locations. like char[] array; 
+
+                //why should we use dynamic array?
+                //dynamic array is used when the size of the array is not known in advance.
+
+                //how to create a dynamic array?
+                //char[] array = new char[10];
+                //int[] array = new int[10];
+                //double[] array = new double[10];
+                //String[] array = new String[10];
+
+                //how to create a dynamic array with initial values?
+                //char[] array = new char[]{'a','b','c','d','e','f','g','h','i','j'};
+                //int[] array = new int[]{1,2,3,4,5,6,7,8,9,10};
+                //double[] array = new double[]{1.1,2.2,3.3,4.4,5.5,6.6,7.7,8.8,9.9,10.10};
+                //String[] array = new String[]{"a","b","c","d","e","f","g","h","i","j"};
+
+                //how to get size of a dynamic array?
+                //array.length
+
+                //how to get value at a specific index of a dynamic array?
+                //array[index]
+
+                //how to create a 2D dynamic array?
+                //int[][] array = new int[10][10];
+
+                //how to create a 2D dynamic array with initial values?
+                //int[][] array = new int[10][10]
+                //{ 
+                //    {1,2,3,4,5,6,7,8,9,10},
+                //    {1,2,3,4,5,6,7,8,9,10},
+                //    {1,2,3,4,5,6,7,8,9,10},
+
+
+
+                // how to do linearSearch? 
+                // linearSearch(int[] array, int key)
+                // linearSearch(char[] array, char key)
+                // linearSearch(double[] array, double key)
+                // linearSearch(String[] array, String key)
+
+                // how to do binarySearch?
+                // binarySearch(int[] array, int key)
+                // binarySearch(char[] array, char key)
+                // binarySearch(double[] array, double key)
+                // binarySearch(String[] array, String key)
+
+                // how to do bubble sort?
+                // bubbleSort(int[] array)
+
+                // how to do insertion sort?
+                // insertionSort(int[] array)
+
+                // how to do selection sort?
+                // selectionSort(int[] array)
+
+                // how to do merge sort?
+                // mergeSort(int[] array)
+
+                // how to do quick sort?
+                // quickSort(int[] array)
+
+                // how to do heap sort?
+                // heapSort(int[] array)
+
+                // how to do counting sort?
+                // countingSort(int[] array)
+
+
+                // how to do radix sort?
+                // radixSort(int[] array)
+
+                // how to do bucket sort?
+                // bucketSort(int[] array)
+
+                // how to do shell sort?
+                // shellSort(int[] array)
+
+                // how to do heap sort?
+                // heapSort(int[] array)
+
                 
+
+
+
+
+
+
 
 
 
