@@ -225,6 +225,53 @@
                 //recursion(int n)
                 //recursion(int n, int m)
 
+
+//what is hash table?
+//hash table is a data structure that stores key-value pairs.
+//how to create a hash table?
+//HashMap<String, String> hashMap = new HashMap<String, String>();
+
+//how to add a key-value pair to a hash table?
+//hashMap.put("key", "value");
+
+//how to get value of a key from a hash table?
+//hashMap.get("key");
+
+//how to check if a key is present in a hash table?
+//hashMap.containsKey("key");
+
+//how to use hash table as a dictionary?
+//hashMap.put("key", "value");
+//hashMap.get("key");
+
+//how to use hash table as a set?
+//hashMap.put("key", "value");
+//hashMap.get("key");
+
+
+//what is graph?
+//graph is a data structure that stores nodes and edges.
+//how to create a graph?
+//Graph<String> graph = new Graph<String>();
+
+//how to add a node to a graph?
+//graph.addNode("node");
+
+//how to add an edge to a graph?
+//graph.addEdge("node1", "node2");
+//graph.addEdge("node2", "node3");
+
+//how to get all nodes of a graph?
+//graph.getNodes();
+
+//how to get all edges of a graph?
+//graph.getEdges();
+
+//how to get all neighbors of a node in a graph?
+//graph.getNeighbors("node");
+
+
+
     
 
 
