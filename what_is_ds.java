@@ -44,7 +44,7 @@
                 //
                 //          ||
                 //          ||
-                //          ||  
+                //          ||  ++++++++++++++++++++++++++++++++++++
                 //          \/
                 //peek returns
                  //the top element of the queue.
@@ -219,7 +219,14 @@
                 //how to do binary search tree?
                 // binarySearchTree(int[] array)
 
-                
+                //what is recursion?  recursion is a method of solving a problem by calling itself.
+
+                //how to do recursion?
+                //recursion(int n)
+                //recursion(int n, int m)
+
+    
+
 
 
 
